@@ -77,11 +77,3 @@ ChatFlow is a real-time messaging platform built for scalability, security, and 
 - Content filtering for uploads and text moderation.  
 - Encrypted file storage and secure environment variables.
 
----
-
-## 8. Summary
-ChatFlow’s architecture is modular, scalable, and optimized for real-time communication.  
-- Stateless services scale independently.  
-- Redis bridges Realtime and API layers.  
-- Workers offload heavy processing.  
-- Secure, fast, and future-ready SaaS foundation.
